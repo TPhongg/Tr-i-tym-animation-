@@ -1,1 +1,1 @@
-# Tr-i-tym-animation-
+# Trai tym animation JavaScript
